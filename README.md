@@ -6,7 +6,7 @@ This repository contains the engineering design, physical Packet Tracer simulati
 
 ---
 
-#👥 | Student Name | ID Number |
+👥 | Student Name | ID Number |
 
 Zacharias Gebre    UGR/9336/15 
 # 🗺️ Network Architecture & Addressing Matrix
